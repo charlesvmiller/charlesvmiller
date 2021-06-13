@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlesvmiller
 - 👀 I’m interested in knowledge management and information systems.
-- 🌱 I’m currently learning about Microsoft 365.
+- 🌱 I’m currently learning about Microsoft 365 and project management.
 - 💞️ I’m looking to collaborate on a file organization podcast.
 - 📫 How to reach me: charles@charlesvmiller.com
 
